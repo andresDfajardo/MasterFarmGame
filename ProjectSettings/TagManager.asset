@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Animal
+  - Carrot
+  - Tomatos
+  - Corn
+  - NPCGirl
+  - Hand
+  - Inicio1Mision
+  - Activate1Mision
+  - ActivateHen
+  - ActivatePig
+  - ActivateCow
+  - CorralHen
+  - CorralCow
+  - CorralPig
+  - Activate2Mision
+  - ActivateEgg
+  - ActivateWheat
+  - Bag2
+  - Activate3Mision
+  - ActivateCorn
+  - ActivateCarrot
+  - ActivateTomato
+  - ActivateCorralCow
+  - ActivateCorralPig
+  - ActivateCorralHen
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

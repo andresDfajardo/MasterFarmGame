@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c7489d091a76044a8a1003b0cc75794, type: 3}
+  m_Name: "Do\xF1aMariana"
+  m_EditorClassIdentifier: 
+  personajeJugable: {fileID: 919132149155446097, guid: a8a4913b12dce3f4c9eec5cce9e0bc03, type: 3}
+  imagen: {fileID: 21300000, guid: 170d980c78c1c0a44a7368d0e8f807b3, type: 3}
+  nombre: Mariana
